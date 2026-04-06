@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\bin\Debug\net10.0\ExpressionEvaluator.Core.deps.json
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\bin\Debug\net10.0\ExpressionEvaluator.Core.dll
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\bin\Debug\net10.0\ExpressionEvaluator.Core.pdb
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\obj\Debug\net10.0\ExpressionEvaluator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\obj\Debug\net10.0\ExpressionEvaluator.Core.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\obj\Debug\net10.0\ExpressionEvaluator.Core.AssemblyInfo.cs
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\obj\Debug\net10.0\ExpressionEvaluator.Core.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\obj\Debug\net10.0\ExpressionEvaluator.Core.dll
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\obj\Debug\net10.0\refint\ExpressionEvaluator.Core.dll
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\obj\Debug\net10.0\ExpressionEvaluator.Core.pdb
+C:\Users\USUARIO\Escritorio\ExpressionEvaluator.2026.1\ExpressionEvaluator.Core\obj\Debug\net10.0\ref\ExpressionEvaluator.Core.dll

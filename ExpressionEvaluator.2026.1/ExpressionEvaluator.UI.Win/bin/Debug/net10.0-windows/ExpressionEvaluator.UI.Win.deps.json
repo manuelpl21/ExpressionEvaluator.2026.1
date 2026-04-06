@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExpressionEvaluator.UI.Win/1.0.0": {
+        "dependencies": {
+          "ExpressionEvaluator.Core": "1.0.0"
+        },
+        "runtime": {
+          "ExpressionEvaluator.UI.Win.dll": {}
+        }
+      },
+      "ExpressionEvaluator.Core/1.0.0": {
+        "runtime": {
+          "ExpressionEvaluator.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpressionEvaluator.UI.Win/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpressionEvaluator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

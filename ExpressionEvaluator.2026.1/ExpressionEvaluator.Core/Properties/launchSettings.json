@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Evaluator.UI.Windows": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\USUARIO\\Escritorio\\ExpressionEvaluator.2026.1\\ExpressionEvaluator.UI.Win\\Program.cs"
+    }
+  }
+}
